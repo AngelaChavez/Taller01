@@ -1,0 +1,4 @@
+name0,description0,price0,name,description,price,message1,name_updated,description_updated,price_updated,message2,content_no_updatable,price_only_update,message3
+iphone 16,Telefono Alta gama,1500,,Telefono Alta gama,1500,El nombre del producto no fue proporcionado,Iphone actualizado,,1870,La nueva descripción no debe estar en blanco,No Update,0,El nuevo precio debe ser mayor a cero
+iphone 17,Telefono Alta gama,1600,iphone 16,,1600,La descripción del producto no fue proporcionada,,Descripcion actualizada,1870,El nuevo nombre no debe estar en blanco,No Update,0,El nuevo precio debe ser mayor a cero
+iphone 18,Telefono Alta gama,1700,iphone 17,Telefono Alta gama,0,El precio del producto no fue proporcionado,Iphone actualizado,Descripcion actualizada,0,El nuevo precio debe ser mayor a cero,No Update,0,El nuevo precio debe ser mayor a cero      
